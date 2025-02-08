@@ -17,6 +17,7 @@
         integrationID: "ad35547f-543c-480d-ade6-8c47997501ae", // The ID of this integration.
         region: "au-syd", // The region your integration is hosted in.
         serviceInstanceID: "f07c3ea5-4cdf-473d-8afd-d6ab02ee3ee0", // The ID of your service instance.
+        restartOnReload: true, // Clears conversation on page refresh
         onLoad: async (instance) => { await instance.render(); }
       };
       setTimeout(function(){
