@@ -1,4 +1,4 @@
-## 🛠 Forever full-stack
+## 🛠 Forever Full-Stack
 ### **Frontend:**  
 - React.js   
 
